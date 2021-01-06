@@ -1,0 +1,12 @@
+d 777 work work . - -
+f 777 work work constants.py - 2eb8e25a5588ca968bc5d7ef7d0439f25b253db8
+f 777 work work proactor_events.py - 9ce01887f75bdf369dc35d6fb1535537e4b1c578
+f 777 work work README.txt - b73a4e56e950f224ced5c14554004ee8827ceb22
+d 777 work work subdir1 - -
+f 777 work work subdir1/staggered.py - 5b467453e8ca8c71074625a946a290789aff861a
+f 777 work work subdir1/streams.py - 43ad3429a1ad0f600146308b58c304a889387445
+d 777 work work subdir1/subdir2 - -
+f 777 work work subdir1/subdir2/base_tasks.py - 2f2f246cbcdb24f124047b2776e6fd4ab3ad3acb
+f 777 work work subdir1/subdir2/__init__.py - a73d1956dda9f1c1d27d529fa8da50a9046c8741
+d 777 work work subdir1/subdir3 - -
+f 777 work work subdir1/subdir3/windows_utils.py - 72295dd5e7c5484419ecb3642a171391da060c6f
